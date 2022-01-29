@@ -1,6 +1,8 @@
 # Balabola GO Client
 GO client for Yandex balabola service 
 
+### Yandex warning
+The neural network does not know what it is saying, and can say anything — if anything, do not be offended. When distributing the resulting texts, remember about responsibility.
 ### Example 
 ```go
 	ctx := context.TODO()
