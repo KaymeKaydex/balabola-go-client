@@ -1,4 +1,4 @@
-module github.com/KaymeKaydex/balabola-go-client.git
+module github.com/KaymeKaydex/balabola-go-client
 
 go 1.17
 
